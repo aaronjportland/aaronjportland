@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aaronjportland
 - 👀 I’m interested in Economics, Statistics and Data Science
-- 📫 How to reach me: aaronjosephportland@gmail.com
+- 📫 How to reach me: aaronpdx@alum.mit.edu
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: According to all known laws of aviation, there is no way a bee should be able to fly.
 
