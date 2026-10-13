@@ -2,7 +2,7 @@
 - 👀 I’m interested in Economics, Statistics and Data Science
 - 📫 How to reach me: aaronpdx@alum.mit.edu
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: According to all known laws of aviation, there is no way a bee should be able to fly.
+- 📑 Projects: [World Bank repository]([url](https://github.com/dime-worldbank/evaluating-non-experimental-methods)), Labor Economics Project (Freshman-Financial-Shock)
 
 <!---
 aaronjportland/aaronjportland is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
