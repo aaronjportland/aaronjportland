@@ -2,7 +2,7 @@
 - 👀 Interests: Economics, Statistics, Data Science, Policy
 - 📫 Contact: aaronpdx@alum.mit.edu
 - 😄 Pronouns: he/him
-- 📑 Projects: [World Bank Internship](https://github.com/dime-worldbank/evaluating-non-experimental-methods), [Labor Economics Course](https://github.com/aaronjportland/Freshman-Financial-Shock)
+- 📑 Projects: [World Bank Internship](https://github.com/dime-worldbank/evaluating-non-experimental-methods), [Labor Economics Final](https://github.com/aaronjportland/Freshman-Financial-Shock)
 
 <!---
 aaronjportland/aaronjportland is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
